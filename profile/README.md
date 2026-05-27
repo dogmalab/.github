@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo -->
-  <img src="profile/logo.png" width="160" alt="DogmaLab Logo" style="margin-bottom: 20px;"/>
+  <img src="./logo.png" width="160" alt="DogmaLab Logo" style="margin-bottom: 20px;"/>
 
   <!-- Main Titles -->
   <h1>DogmaLab</h1>
