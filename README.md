@@ -69,5 +69,5 @@ We build in the open. The integration between our vector database and agent fram
 
 ---
 <div align="center">
-  <sub>Founded and led by <a href="https://github.com/arggil">@tu-usuario</a></sub>
+  <sub>Founded and led by <a href="https://github.com/arggil">@arggil</a></sub>
 </div>
